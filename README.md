@@ -1,4 +1,4 @@
-# SE_Project_Phase1_Team1
+# SE_Project_Phase1_Team2
 CONSTRUCTION COMPANY 'BIBA X' PROJECT BINF 3B
 Team Name: Bob Ndërtuesi/Group 1 
 ## Team Leader: 
